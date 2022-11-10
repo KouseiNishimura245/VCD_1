@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ワインBar CIT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- menu section -->
+    <input type="checkbox" id="check">
+    <label for="check">
+         <i class="fas fa-bars" id="select">≣</i>
+         <i class="fas fa-times" id="cancel">×</i>
+    </label>
+    
+    <!-- sidebar section -->
+     <ul class="sidebar">
+        <header>情報</header> 
+        <ul>
+            <li><a href="#">お知らせ</a></li>
+            <li><a href="#">ワイン</a></li>
+            <li><a href="#">サイドメニュー</a></li>
+            <li><a href="#">アクセス</a></li>
+            <li><a href="#">お問い合わせ</a></li>
+        </ul>
+     </ul>
+     <main>
+        <!-- <div class="bg"> -->
+        <div class="b">
+            <img src="DSCF0611.JPG" alt="背景画像">
+        </div>
+        
+        <!-- </div> -->
+     </main>
+</body>
+</html>
